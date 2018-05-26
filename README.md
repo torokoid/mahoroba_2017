@@ -33,3 +33,13 @@ body { background-color: #ccffcc; }
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<h3>2017年の記録</h3>
+<img src="https://torokoid.github.io/mahoroba/358.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/360.JPG" alt="" width="229" height="318" border="0" />
+<img src="https://torokoid.github.io/mahoroba/392.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/409.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/427.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/433.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/454.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/461.JPG" alt="" width="229" height="318" border="0" />
+<img src="https://torokoid.github.io/mahoroba/468.JPG" alt="" width="318" height="229" border="0" /><br/>
