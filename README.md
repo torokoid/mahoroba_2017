@@ -36,7 +36,7 @@ body { background-color: #ccffcc; }
 
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
-<script type="text/javascript" src="popup.js"></script>  
+<script type="text/javascript" src="/mahoroba_2017/popup.js"></script>  
 </head>
 
 
@@ -45,6 +45,8 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2017年の記録</h3>
+
+<p><a href="http://www.css-lecture.com/" class="tooltip" title="CSSリファレンス、(X)HTML、Movable Type、その他Webサイト制作に関する役立つ情報を掲載します！">CSS Lecture</a></p>  
 
 <ul>
 <li><a href="/mahoroba/358.JPG" class="preview"><img src="/mahoroba/358.JPG" alt="サンプル画像" width="150" /></a></li>
