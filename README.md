@@ -18,14 +18,25 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
-
+ 
+#preview{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	display: none;
+	color: #FFF;
+	text-align: center;
+}
 
 body { background-color: #ccffcc; }
 
 
 </style>
-<link rel="stylesheet" href="../style.css/" type="text/css">
 
+<link rel="stylesheet" href="../style.css/" type="text/css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
+<script type="text/javascript" src="popup.js"></script>  
 </head>
 
 
@@ -34,6 +45,15 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2017年の記録</h3>
+
+<ul>
+<li><a href="/mahoroba/358.JPG" class="preview"><img src="/mahoroba/358.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/360.JPG" class="preview"><img src="/mahoroba/360.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/392.JPG" class="preview"><img src="/mahoroba/392.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/409.JPG" class="preview"><img src="/mahoroba/409.JPG" alt="サンプル画像" width="150" /></a></li>
+</ul>
+
+<!--
 <img src="https://torokoid.github.io/mahoroba/358.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/360.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/392.JPG" alt="" width="318" height="229" border="0" />
@@ -43,6 +63,8 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/454.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/461.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/468.JPG" alt="" width="318" height="229" border="0" /><br/>
+-->
+
 <br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>
