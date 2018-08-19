@@ -75,9 +75,14 @@ body { background-color: #ccffcc; }
 
 <ul>
 <li><a href="/mahoroba/358.JPG" class="preview"><img src="/mahoroba/358.JPG" alt="サンプル画像" width="150" /></a></li>
-<li><a href="/mahoroba/360.JPG" class="preview"><img src="/mahoroba/360.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/360.JPG" class="preview"><img src="/mahoroba/360.JPG" alt="サンプル画像" width="80" /></a></li>
 <li><a href="/mahoroba/392.JPG" class="preview"><img src="/mahoroba/392.JPG" alt="サンプル画像" width="150" /></a></li>
 <li><a href="/mahoroba/409.JPG" class="preview"><img src="/mahoroba/409.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/427.JPG" class="preview"><img src="/mahoroba/427.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/433.JPG" class="preview"><img src="/mahoroba/433.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/454.JPG" class="preview"><img src="/mahoroba/454.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/461.JPG" class="preview"><img src="/mahoroba/461.JPG" alt="サンプル画像" width="150" /></a></li>
+<li><a href="/mahoroba/468.JPG" class="preview"><img src="/mahoroba/468.JPG" alt="サンプル画像" width="150" /></a></li>
 </ul>
 
 <!--
