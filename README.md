@@ -19,6 +19,19 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
  
+
+/* テキスト表示
+----------------------------------------------------------- */
+#tooltip{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	color: #FFF;
+	display:none;
+}
+/* 画像表示
+----------------------------------------------------------- */
 #preview{
 	position: absolute;
 	border: 3px solid #333;
@@ -28,6 +41,18 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
+/* URLプレビュー
+----------------------------------------------------------- */
+#screenshot{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	display: none;
+	color: #FFF;
+	text-align: center;
+}
+
 
 body { background-color: #ccffcc; }
 
@@ -46,7 +71,7 @@ body { background-color: #ccffcc; }
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2017年の記録</h3>
 
-<p><a href="http://www.css-lecture.com/" class="tooltip" title="CSSリファレンス、(X)HTML、Movable Type、その他Webサイト制作に関する役立つ情報を掲載します！">CSS Lecture</a></p>  
+
 
 <ul>
 <li><a href="/mahoroba/358.JPG" class="preview"><img src="/mahoroba/358.JPG" alt="サンプル画像" width="150" /></a></li>
