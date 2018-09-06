@@ -97,6 +97,7 @@ body::before {
 <li><a href="/mahoroba/454.JPG" class="preview"><img src="/mahoroba/454.JPG" alt="サンプル画像" width="450" /></a></li>
 <li><a href="/mahoroba/461.JPG" class="preview"><img src="/mahoroba/461.JPG" alt="サンプル画像" width="450" /></a></li>
 <li><a href="/mahoroba/468.JPG" class="preview"><img src="/mahoroba/468.JPG" alt="サンプル画像" width="450" /></a></li>
+<li><a href="/mahoroba/002.JPG" class="preview"><img src="/mahoroba/002.JPG" alt="サンプル画像" width="450" /></a></li>
 </ul>
 
 <!--
