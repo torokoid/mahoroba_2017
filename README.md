@@ -56,7 +56,20 @@ font-size: 1.5em;
 
 body { background-color: #ccffcc; }
 
-
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/mahoroba/137.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
+  
 </style>
 
 <link rel="stylesheet" href="../style.css/" type="text/css">
@@ -67,7 +80,8 @@ body { background-color: #ccffcc; }
 
 <body>
 
-<h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2017/08/06 !!!</marquee></span></h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2017年の記録</h3>
 
@@ -96,7 +110,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/461.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/468.JPG" alt="" width="318" height="229" border="0" /><br/>
 -->
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>
