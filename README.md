@@ -81,7 +81,8 @@ body::before {
 <body>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2017/08/06 !!!</marquee></span></h1>
-<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt:mahoroba_2017</p>
+<div style="background-color:rgb(255,255,255,0.5);">
+<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt;mahoroba_2017</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2017年の記録</h3>
